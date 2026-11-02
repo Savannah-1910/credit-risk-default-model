@@ -1,0 +1,15 @@
+{
+  "oot_auc": {
+    "Scorecard": 0.648,
+    "LightGBM": 0.6736
+  },
+  "oot_ks": {
+    "Scorecard": 0.2129,
+    "LightGBM": 0.2501
+  },
+  "profit_max_approval_rate": 0.87,
+  "profit_at_best_cutoff": 82269645,
+  "profit_if_approve_all": 74339566,
+  "bad_rate_at_best_cutoff": 0.1281,
+  "bad_rate_if_approve_all": 0.1489
+}

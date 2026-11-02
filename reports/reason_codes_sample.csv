@@ -1,0 +1,21 @@
+oot_row,predicted_pd,actually_defaulted,reason_1,reason_2,reason_3,reason_4
+223678,0.278,1,Length of employment too short,Income insufficient for amount of credit requested,Debt-to-income ratio too high,Housing status
+208009,0.236,0,Loan purpose,Debt-to-income ratio too high,Income insufficient for amount of credit requested,Housing status
+58597,0.318,1,Income insufficient for amount of credit requested,Length of employment too short,Credit score too low,Too many recent credit inquiries
+276714,0.375,0,Credit score too low,Loan amount too high relative to income,Revolving balances too high,Revolving credit utilization too high
+241146,0.333,0,Debt-to-income ratio too high,Credit score too low,Loan amount too high relative to income,Income insufficient for amount of credit requested
+220201,0.309,0,Credit score too low,Loan amount too high relative to income,Requested loan amount too high,Debt-to-income ratio too high
+37310,0.376,0,Loan purpose,Requested loan amount too high,Credit score too low,Too many recent credit inquiries
+26263,0.242,0,Credit score too low,Loan amount too high relative to income,Length of credit history too short,Income insufficient for amount of credit requested
+191128,0.421,0,Credit score too low,Too many recent credit inquiries,Debt-to-income ratio too high,Revolving balances too high
+151423,0.237,0,Credit score too low,Revolving balances too high,Income insufficient for amount of credit requested,Loan purpose
+129400,0.225,1,Credit score too low,Loan amount too high relative to income,Income insufficient for amount of credit requested,Number of open credit accounts
+25315,0.283,0,Credit score too low,Too many recent credit inquiries,Income insufficient for amount of credit requested,Loan amount too high relative to income
+134579,0.282,0,Debt-to-income ratio too high,Loan amount too high relative to income,Credit score too low,Number of open credit accounts
+245959,0.26,1,Credit score too low,Debt-to-income ratio too high,Revolving credit utilization too high,Income insufficient for amount of credit requested
+27662,0.271,0,Revolving credit utilization too high,Income insufficient for amount of credit requested,Credit score too low,Loan amount too high relative to income
+212995,0.224,0,Income insufficient for amount of credit requested,Credit score too low,Limited credit experience,Housing status
+226998,0.231,0,Credit score too low,Income insufficient for amount of credit requested,Limited credit experience,Loan amount too high relative to income
+131162,0.352,0,Debt-to-income ratio too high,Credit score too low,Income insufficient for amount of credit requested,Number of open credit accounts
+202516,0.225,1,Credit score too low,Too many recent credit inquiries,Revolving balances too high,Loan amount too high relative to income
+155139,0.226,0,Credit score too low,Debt-to-income ratio too high,Housing status,Loan amount too high relative to income
